@@ -1,4 +1,8 @@
+vtb-promo.cam
+vtb-security.store
 yandex.ru
+51.116.113.62
+vtb-gifts.ru
 mirea.ru
 tinkoff.ru
-vtb.ru
+https://vtb-10000rub.ru/
