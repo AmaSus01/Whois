@@ -19,7 +19,8 @@ python3 main.py -f pull.txt
 ```
 >You can use this command to check domain names in "whois" from file list (pull.txt) which you can chage by the way
 
-![Screenshot from 2021-09-08 16-50-10](https://user-images.githubusercontent.com/57565730/132522128-09585111-f51d-44a1-a121-16bce6aefa09.png)
+>Result of work
+![Screenshot from 2021-09-08 16-50-10](https://user-images.githubusercontent.com/57565730/132522435-f67bceff-b8d9-4db4-9d8a-4c8ee963f3e2.png)
 3. If you have some troubles just write:
 
  ```console
